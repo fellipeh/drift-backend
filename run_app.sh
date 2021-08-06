@@ -1,3 +1,5 @@
+#!/bin/bash
+
 TEMPDIR=`mktemp -d`
 
 if [ -z "$INVENTORY_SVC_URL" ];
